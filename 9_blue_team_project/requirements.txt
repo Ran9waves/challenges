@@ -1,0 +1,4 @@
+scrapy
+bs4
+BeautfulSoup4
+socket
