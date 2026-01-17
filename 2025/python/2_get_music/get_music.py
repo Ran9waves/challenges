@@ -35,7 +35,7 @@ def youtube_download():
 def repeat():
     #asks if you want to download more songs
     question = input('do you want to download another song? Yes/No? ' )
-    if question == 'yes':
+    if question == 'yes' or 'y' or 'Yes':
         youtube_download()
     else:
         exit()
