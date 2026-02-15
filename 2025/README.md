@@ -23,3 +23,5 @@ Challenge 6: image background remover
 Challege 7: video to gif converter
 
 Challenge 8: Fake credit card data generator (educational purposes only)
+
+Challenge 9: Several small blue team projects like port scanner, webscrapper and socket program. 
